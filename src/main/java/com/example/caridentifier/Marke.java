@@ -2,7 +2,8 @@ package com.example.caridentifier;
 
 public class Marke {
 
-    public static final String[] brands = {"AC",
+    public static final String[] brands = {
+            "AC",
             "ACURA",
             "ADLER",
             "ADR",

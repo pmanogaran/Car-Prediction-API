@@ -5,11 +5,8 @@ public class Car {
     private String modell;
 
     public Car() {
-    }
-
-    public Car(String marke, String modell) {
-        this.marke = marke;
-        this.modell = modell;
+        this.marke = "";
+        this.modell = "";
     }
 
     public String getMarke() {

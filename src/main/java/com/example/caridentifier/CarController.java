@@ -21,8 +21,6 @@ public class CarController {
             }
         } catch (Exception e){
             System.out.println("ooops... something happened! " + modell);
-            car.setMarke("");
-            car.setModell("");
         }
 
         return car;
